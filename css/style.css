@@ -87,14 +87,14 @@ a:hover {
 }
 .top-cloud {
   position: absolute;
-  right: 25rem;
-  top: 5rem;
+  right: 25%;
+  top: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 20rem;
-  bottom: 20rem;
+  left: 20%;
+  bottom: 40%;
 }
 
 .comp {
